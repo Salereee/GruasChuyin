@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#e10600"/>
+  <!-- Marca de grua, simplificada: sin las marcas de suelo, que se pierden a 16px -->
+  <g transform="translate(4 4.4) scale(1)"
+     fill="none" stroke="#ffffff" stroke-width="2.1"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 16.4V7.6h8.4v8.8"/>
+    <path d="M11.4 10.8h3.9l3.7 3.4v2.2"/>
+    <circle cx="6.2" cy="17.6" r="1.9"/>
+    <circle cx="17.1" cy="17.6" r="1.9"/>
+  </g>
+</svg>
